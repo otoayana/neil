@@ -1,4 +1,7 @@
 # Neil
+
+**UPDATE:** Haha, this project is pretty old, and probably not very good. I would not advise anyone to use this nowadays, since the Linux space has improved significantly. But yeah, this was uh a thing i guess in my dev history? Archiving it.
+
 A professional bundle for Debian (mainly for Ubuntu).
 
 ### ___INSTRUCTIONS___
